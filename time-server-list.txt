@@ -131,9 +131,6 @@
 3.smartos.pool.ntp.org
 3.south-america.pool.ntp.org
 3.ubnt.pool.ntp.org
-DNSp.Uni-Marburg.DE
-DNSs1.Uni-Marburg.DE
-DNSs2.Uni-Marburg.DE
 a.ntp.br
 a.st1.ntp.br
 ae.pool.ntp.org
@@ -166,6 +163,9 @@ cronos.cenam.mx
 d.st1.ntp.br
 de.pool.ntp.arcor-ip.net
 de.pool.ntp.org
+dnsp.uni-marburg.de
+dnss1.uni-marburg.de
+dnss2.uni-marburg.de
 es.pool.ntp.org
 eshail.batc.org.uk
 europe.pool.ntp.org
@@ -178,7 +178,7 @@ gnomon.cc.columbia.edu
 gps.layer42.net
 gps.ntp.br
 ha2.hrz.uni-giessen.de
-hal.ikw.Uni-Osnabrueck.DE
+hal.ikw.uni-osnabrueck.de
 hora.cica.es
 hora.cs.tu-berlin.de
 hora.roa.es
@@ -190,7 +190,6 @@ hrz-ws74.hrz.uni-kassel.de
 in.pool.ntp.org
 ir.pool.ntp.org
 it.pool.ntp.org
-its
 kendesi.rz.uni-konstanz.de
 kindle-time.amazon.com
 kindle.time.amazon.com
@@ -389,7 +388,7 @@ nts.netnod.se
 nts1.roa.es
 os.ntp.carnet.hr
 otc1.psu.edu
-physik-gw.rrz.Uni-Koeln.DE
+physik-gw.rrz.uni-koeln.de
 pool.ntp.org
 pt.pool.ntp.org
 ptbtime1.ptb.de
@@ -417,7 +416,7 @@ stdtime.gov.hk
 sth1.ntp.se
 sth2.ntp.se
 stratum1.net
-surz17.HRZ.Uni-Marburg.DE
+surz17.hrz.uni-marburg.de
 susi.rz.uni-jena.de
 svl1.ntp.se
 svl2.ntp.se
@@ -540,7 +539,7 @@ vniiftri2.khv.ru
 wrzx03.rz.uni-wuerzburg.de
 wrzx05.rz.uni-wuerzburg.de
 www.rrze.uni-erlangen.de
-www1.rrz.Uni-Koeln.DE
+www1.rrz.uni-koeln.de
 x.ns.gin.ntt.net
 y.ns.gin.ntt.net
 zeit.fu-berlin.de
