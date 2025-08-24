@@ -1,5 +1,4 @@
-# Title: A non-exhaustive list of Internet time servers
-#
+### Title: A non-exhaustive list of Internet Time Servers (NTP) ###
 0.africa.pool.ntp.org
 0.amazon.pool.ntp.org
 0.android.pool.ntp.org
@@ -232,6 +231,7 @@ ntp.heppen.be
 ntp.hr
 ntp.i2t.ehu.es
 ntp.i2t.ehu.eus
+ntp.iitb.ac.in:
 ntp.isc.org
 ntp.isc.org)
 ntp.ix.ru
@@ -284,6 +284,7 @@ ntp0.ntp-servers.net
 ntp1.as34288.net
 ntp1.belwue.de
 ntp1.conectiv.com
+ntp1.dmz.terryburton.co.uk
 ntp1.ewetel.de
 ntp1.fau.de
 ntp1.freenet.de
@@ -320,6 +321,7 @@ ntp11.metas.ch
 ntp12.metas.ch
 ntp13.metas.ch
 ntp2.belwue.de
+ntp2.dmz.terryburton.co.uk
 ntp2.fau.de
 ntp2.hetzner.de
 ntp2.hrz.uni-dortmund.de
@@ -408,6 +410,8 @@ rztime1.rz.tu-bs.de
 rztime2.rz.tu-bs.de
 rztime3.rz.tu-bs.de
 sa.pool.ntp.org
+samay1.nic.in:
+samay2.nic.in:
 se.pool.ntp.org
 server3.ir.pool.ntp.org
 sesku.planeacion.net
@@ -425,6 +429,7 @@ t2.timegps.net
 tempo.cstv.to.cnr.it
 tempus1.gum.gov.pl
 tempus2.gum.gov.pl
+tick.espanix.net
 tick.ucla.edu
 tick.uh.edu
 tick.usask.ca
@@ -471,6 +476,8 @@ time.google.com
 time.in.ua:
 time.metrologie.at
 time.nist.gov
+time.nplindia.in:
+time.nplindia.org:
 time.nrc.ca
 time.ovgu.de
 time.ufe.cz
@@ -516,6 +523,7 @@ timeserver2.rwth-aachen.de
 timesrv1.uni-jena.de
 timesrv2.uni-jena.de
 timesrv3.uni-jena.de
+tock.espanix.net
 tock.usask.ca
 tock.usno.navy.mil
 tock.usshc.com
