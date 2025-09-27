@@ -1,4 +1,4 @@
-### Title: A non-exhaustive list of Internet Time Servers (NTP) ###
+### Title A non-exhaustive list of Internet Time Servers (NTP) ###
 0.africa.pool.ntp.org
 0.amazon.pool.ntp.org
 0.android.pool.ntp.org
@@ -231,7 +231,7 @@ ntp.heppen.be
 ntp.hr
 ntp.i2t.ehu.es
 ntp.i2t.ehu.eus
-ntp.iitb.ac.in:
+ntp.iitb.ac.in
 ntp.isc.org
 ntp.isc.org)
 ntp.ix.ru
@@ -410,8 +410,8 @@ rztime1.rz.tu-bs.de
 rztime2.rz.tu-bs.de
 rztime3.rz.tu-bs.de
 sa.pool.ntp.org
-samay1.nic.in:
-samay2.nic.in:
+samay1.nic.in
+samay2.nic.in
 se.pool.ntp.org
 server3.ir.pool.ntp.org
 sesku.planeacion.net
@@ -473,13 +473,14 @@ time.facebook.com
 time.fu-berlin.de
 time.g.aaplimg.com
 time.google.com
-time.in.ua:
+time.in.ua
 time.metrologie.at
 time.nist.gov
-time.nplindia.in:
-time.nplindia.org:
+time.nplindia.in
+time.nplindia.org
 time.nrc.ca
 time.ovgu.de
+time.redbutton.de
 time.ufe.cz
 time.uni-paderborn.de
 time.uni-potsdam.de
