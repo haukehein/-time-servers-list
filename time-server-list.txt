@@ -383,6 +383,7 @@ ntp0.freenet.de
 ntp0.hrz.uni-dortmund.de
 ntp0.nl.uu.net
 ntp0.ntp-servers.net
+ntp1.adminforge.de
 ntp1.as34288.net
 ntp1.belwue.de
 ntp1.conectiv.com
@@ -422,6 +423,7 @@ ntp1.zih.tu-dresden.de
 ntp11.metas.ch
 ntp12.metas.ch
 ntp13.metas.ch
+ntp2.adminforge.de
 ntp2.belwue.de
 ntp2.dmz.terryburton.co.uk
 ntp2.fau.de
@@ -449,6 +451,7 @@ ntp2.versatel.net
 ntp2.vniiftri.ru
 ntp2.zih.tu-dresden.de
 ntp21.vniiftri.ru
+ntp3.adminforge.de
 ntp3.hetzner.de
 ntp3.informatik.uni-erlangen.de
 ntp3.jst.mfeed.ad.jp
